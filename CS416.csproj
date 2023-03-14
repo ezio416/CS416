@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <VersionPrefix>0.0.1</VersionPrefix>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <AssemblyName>Ezio416.CS416</AssemblyName>
+    <Title>CS416</Title>
+    <Authors>Ezio416</Authors>
+    <RepositoryUrl>https://github.com/ezio416/cs416</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
