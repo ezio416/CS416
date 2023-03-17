@@ -11,6 +11,14 @@
     <Title>CS416</Title>
     <Authors>Ezio416</Authors>
     <RepositoryUrl>https://github.com/ezio416/CS416</RepositoryUrl>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
